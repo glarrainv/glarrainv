@@ -1,17 +1,14 @@
 # Welcome to my profile! 🎉 
-## TLDR
+## TLDR  ( ノ・・)ノ
 
-( ノ・・)ノ
+* **Name:** *Gaspar Darío Larraín Varas*
+*  **College:** *University of Notre Dame*
+*  **Major, Minors:** *Business Analytics, Chinese + Computing & Digital Technologies*
+*  **Current Project:** *RedReport, OpenAI Hackathon*
+*  **Interests:** *Social Innovation, Technology Ethics, Foreign Languages & Cultures, Badminton, Sailing*
 
-Name: Gaspar Darío Larraín Varas
-
-College: University of Notre Dame
-
-Major, Minors: Business Analytics, Chinese + Computing & Digital Technologies
-
-Current Project: RedReport, OpenAI Hackathon
-
-Interests: Social Innovation, Technology Ethics, Foreign Languages & Cultures, Badminton, Sailing
+*  **Skills:**
+*  
 
 
 

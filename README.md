@@ -7,8 +7,8 @@
 *  **Current Project:** *RedReport, OpenAI Hackathon*
 *  **Interests:** *Social Innovation, Technology Ethics, Foreign Languages & Cultures, Badminton, Sailing*
 
-*  **Skills:**
-*  
+**Skills:**
+
 
 
 

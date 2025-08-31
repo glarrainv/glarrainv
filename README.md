@@ -6,7 +6,7 @@
 *  **College:** *University of Notre Dame*
 *  **Major, Minors:** *Business Analytics, Chinese + Computing & Digital Technologies*
 *  **Current Project:** *RedReport, OpenAI Hackathon*
-*  **Interests:** *Social Innovation, Technology Ethics, Foreign Languages & Cultures, Badminton, Sailing*
+*  **Interests:** *Design Thinking, Responsible Innovation, Foreign Languages & Cultures, Badminton, Sailing*
 
 
 **Skills:**

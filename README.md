@@ -5,7 +5,6 @@
 * **Name:** *Gaspar Darío Larraín Varas*
 *  **College:** *University of Notre Dame*
 *  **Major, Minors:** *Business Analytics, Chinese + Computing & Digital Technologies*
-*  **Current Project:** *RedReport, OpenAI Hackathon*
 *  **Interests:** *Design Thinking, Responsible Innovation, Foreign Languages & Cultures, Badminton, Sailing*
 
 
@@ -18,6 +17,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+**Projects:**
+[Data Club Dataset](https://kaggle.shoore.dev/api/card/datasets/gasparlarrainvaras/notre-dame-data-club-2026-historical-data)
 
 **Portfolio:**
 [SHOORE](https://larrain.pro)  

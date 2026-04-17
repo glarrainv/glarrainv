@@ -5,7 +5,7 @@
 * **Name:** *Gaspar Darío Larraín Varas*
 *  **College:** *University of Notre Dame*
 *  **Major, Minors:** *Business Analytics, Chinese + Computing & Digital Technologies*
-*  **Interests:** *Design Thinking, Responsible Innovation, Foreign Languages & Cultures, Badminton, Sailing*
+*  **Interests:** *Product Development, SLM Applications, EdTech, Psychology, Badminton, Sailing*
 
 
 **Skills:**

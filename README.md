@@ -18,10 +18,14 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-**Projects:**
-
-[![Data Club Kaggle Dataset](https://kaggle.shoore.dev/api/card/datasets/gasparlarrainvaras/notre-dame-data-club-2026-historical-data)](https://www.kaggle.com/datasets/gasparlarrainvaras/notre-dame-data-club-2026-historical-data)
-
 **Portfolio:**
-[SHOORE](https://larrain.pro)  
+
+[![SHOORE Badge](https://img.shields.io/badge/shoore-DEV-fffbde?style=plastic&label=SHOORE&labelColor=fffbde&color=749bc2&link=https%3A%2F%2Fshoore.dev%2F)](https://larrain.pro)
+
+
+**Published Work:**
+
+[![Data Club Kaggle Dataset](https://kaggle.shoore.dev/badge/datasets/gasparlarrainvaras/notre-dame-data-club-2026-historical-data/svg)](https://kaggle.shoore.dev/badge/datasets/gasparlarrainvaras/notre-dame-data-club-2026-historical-data)
+
+
 
